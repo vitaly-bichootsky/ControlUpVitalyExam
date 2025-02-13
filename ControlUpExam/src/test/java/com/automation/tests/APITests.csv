@@ -1,0 +1,8 @@
+testName, expectedCount
+verifyAirportCount, 30
+
+testName, airport1, airport2, airport3
+verifySpecificAirports, "Akureyri Airport", "St. Anthony Airport", "CFB Bagotville"
+
+testName, airportFrom, airportTo, expectedDistance
+verifyDistanceBetweenAirports, "KIX", "NRT", 400

@@ -1,0 +1,4 @@
+testName
+verifyInventoryItems,"standard_user","secret_sauce",6
+
+addItemToCartAndVerifyBadge,1
